@@ -1,0 +1,4 @@
+a 19 1 sichuan boss 19000 123456789
+b 13 0 neijang employee 890 1823746510
+c 34 1 guangzhou boss 19098 17823462424
+d 25 0 shenzhen employee 9823 157234980

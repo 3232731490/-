@@ -1,0 +1,6 @@
+﻿  function.cpp
+C:\Users\32327\Desktop\课设作业\面向对象\Per_mana_System\Per_mana_System\function.cpp(549,19): warning C4101: “pre”: 未引用的局部变量
+C:\Users\32327\Desktop\课设作业\面向对象\Per_mana_System\Per_mana_System\function.cpp(739,12): warning C4101: “Port”: 未引用的局部变量
+  源.cpp
+  正在生成代码...
+  Per_mana_System.vcxproj -> C:\Users\32327\Desktop\课设作业\面向对象\Per_mana_System\Debug\Per_mana_System.exe
